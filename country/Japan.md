@@ -266,3 +266,19 @@ dreaMTank株式会社 社長
 新浪微博：李拯東
 
 简历邮箱：dreamtank007@gmail.com 邮件里备注您的微信 然后加微信视频面试
+
+
+# 招聘资源
+
+
+# Indeed Tokyo - 全球最大职位搜索引擎
+
+职位： 目前主要招聘Engineering Manager
+
+职位描述：https://www.indeed.jobs/career/JobDetail/Software-Engineering-Manager-Director/6841
+
+全英文工作环境，硅谷企业文化氛围，弹性工作制，工作生活平衡好，免费午餐，无限制带薪休假，支持全家relocation，免费日语课程。。。
+
+工作地点：东京
+
+联系方式： mdai@indeed.com
